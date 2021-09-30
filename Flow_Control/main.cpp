@@ -18,7 +18,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-
+// 
 std::string loadAndPrintAsciiv2(std::string fname);
 std::string loadAndPrintAsciiv1(std::string fname);
 
